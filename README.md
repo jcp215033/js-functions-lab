@@ -38,7 +38,7 @@ You can run JavaScript outside the browser using the command `node <path_to_file
 
 **However, this will not print anything out yet!**
 
-We declared our function but we never *invoked* it! We can invoke functions in browser's console, but we can't invoke functions in terminal. Instead, we must *invoke the function* in the file itself, then run the file. Update your code in `answers.js` to *invoke* the function:
+We declared our function but we never *invoked* it! We can invoke functions in the browser's console, but we can't invoke functions in the terminal. Instead, we must *invoke the function* in the file itself, then run the file. Update your code in `answers.js` to *invoke* the function:
 
 ```javascript
 hello("Carmen"); // Remember hoisting is a thing ;)
