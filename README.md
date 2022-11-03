@@ -89,9 +89,7 @@ Then run `npm test` to see the results.
 
     Examples:
     ```javascript
-    findProduct(5, 7); // 35
-    findProduct(15, 10); // 150
-    findProduct(25.75, 42); // 1081.5
+    
     ```
     
 3. Write a function that returns the area of a square when given one side as the input:
